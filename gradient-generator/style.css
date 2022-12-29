@@ -1,0 +1,25 @@
+body{
+	display: flex;
+ 	justify-content: center;
+  	align-items: center;
+  	height: 100vh;
+}
+input{
+	padding: 10px;
+	width: 300px;	
+}
+a{
+	padding: 10px;
+	background-color: royalblue;
+	border-radius: 5px;
+	color: white;
+	text-decoration: none;
+	margin: 0px auto;
+	border: 3px solid white;
+	transition: 1s;
+	font-weight: bold;
+	font-family:Segoe UI Black;
+}
+a:hover{
+	background-color: blueviolet;
+}
